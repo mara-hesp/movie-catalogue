@@ -14,7 +14,7 @@ const VoteContainer = ({ sem, title, sub}) => {
                 </ul>
             ))}
             </li>
-            <a href='https://forms.gle/98LeKYuUzBMC1wvj9' className='voteBtn'><button>Click aquí para Votar</button></a>
+            <a href='https://forms.gle/98LeKYuUzBMC1wvj9' className='voteBtn'><button>Ir a la Votación</button></a>
             <ButtonToTop />
         </div>
     )
